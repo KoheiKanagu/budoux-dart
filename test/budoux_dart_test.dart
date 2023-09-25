@@ -3,7 +3,7 @@ import 'package:test/test.dart';
 
 void main() {
   test('example', () {
-    final budouX = BudouX('assets/models/ja.json');
+    final budouX = BudouX('lib/models/ja.json');
 
     final actual = budouX.parse(
       '今日は良い天気ですね。',
