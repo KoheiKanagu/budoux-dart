@@ -1,11 +1,8 @@
 import 'dart:convert';
-import 'dart:io';
 
 class BudouX {
-  BudouX(String modelFilePath) {
-    _model = json.decode(
-      File(modelFilePath).readAsStringSync(),
-    ) as Map<String, dynamic>;
+  BudouX(String modelJsonString) {
+    _model = json.decode(modelJsonString) as Map<String, dynamic>;
 
     totalScore = _model.values
         .map(
