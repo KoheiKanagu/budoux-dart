@@ -8,7 +8,9 @@ A Dart implementation of [BudouX](https://github.com/google/budoux)
 # pubspec.yaml
 dependencies:
   budoux_dart:
-    git: https://github.com/KoheiKanagu/budoux-dart.git
+    git:
+      url: https://github.com/KoheiKanagu/budoux-dart.git
+      ref: 1.0.0
 
 flutter:
   assets:
