@@ -1,6 +1,8 @@
 # BudouX-Dart
 
-A Dart implementation of [BudouX](https://github.com/google/budoux)
+[BudouX](https://github.com/google/budoux)の Dart 実装です。
+
+[Java の実装](https://github.com/google/budoux/blob/main/java/src/main/java/com/google/budoux/Parser.java)を参考にしています。
 
 ## Flutter のサンプル
 
@@ -10,16 +12,18 @@ dependencies:
   budoux_dart:
     git:
       url: https://github.com/KoheiKanagu/budoux-dart.git
-      ref: 1.0.0
+      ref: 1.0.1
 
 flutter:
   assets:
     - packages/budoux_dart/models/ja.json
+    # or ja_knbc.json
 ```
 
 ```dart
   final budouX = BudouX(
     await rootBundle.loadString('packages/budoux_dart/models/ja.json'),
+    // or ja_knbc.json
   );
 ```
 
