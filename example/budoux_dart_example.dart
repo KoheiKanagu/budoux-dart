@@ -1,6 +1,6 @@
 import 'dart:io';
 
-import 'package:budoux_dart/src/budoux_dart.dart';
+import 'package:budoux_dart/budoux.dart';
 
 void main() {
   final budouX = BudouX(
