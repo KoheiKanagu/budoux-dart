@@ -2,7 +2,7 @@
 
 [BudouX](https://github.com/google/budoux)の Dart 実装です。
 
-[Java の実装](https://github.com/google/budoux/blob/main/java/src/main/java/com/google/budoux/Parser.java)を参考にしています。
+[Java の実装](https://github.com/google/budoux/blob/5d7a713576c8ade0a5201b8d670c448eb33ee160/java/src/main/java/com/google/budoux/Parser.java)を参考にしています。
 
 ## Flutter のサンプル
 
