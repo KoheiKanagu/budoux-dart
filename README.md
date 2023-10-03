@@ -1,19 +1,15 @@
 # BudouX-Dart
 
+[![pub package](https://img.shields.io/pub/v/budoux_dart.svg?label=budoux_dart&color=blue)](https://pub.dartlang.org/packages/budoux_dart)
+
 [BudouX](https://github.com/google/budoux)の Dart 実装です。
 
-[Java の実装](https://github.com/google/budoux/blob/main/java/src/main/java/com/google/budoux/Parser.java)を参考にしています。
+[Java の実装](https://github.com/google/budoux/blob/5d7a713576c8ade0a5201b8d670c448eb33ee160/java/src/main/java/com/google/budoux/Parser.java)を参考にしています。
 
 ## Flutter のサンプル
 
 ```yaml
 # pubspec.yaml
-dependencies:
-  budoux_dart:
-    git:
-      url: https://github.com/KoheiKanagu/budoux-dart.git
-      ref: 1.0.1
-
 flutter:
   assets:
     - packages/budoux_dart/models/ja.json
