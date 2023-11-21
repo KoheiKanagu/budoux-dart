@@ -1,13 +1,18 @@
 # CHANGELOG
 
-## 1.0.2 2023/10/03
+## 1.1.0
 
-- `pub.dev`で公開しました
+- Updated minimum SDK version to 3.2.0
+- Added support for budoux v0.6.1, but no impact on budoux-dart
 
-## 1.0.1 2023/09/26
+## 1.0.2
 
-- `ja_knbc.json` を追加しました
+- Published on `pub.dev`
 
-## 1.0.0 2023/09/25
+## 1.0.1
+
+- Added `ja_knbc.json`
+
+## 1.0.0
 
 - Initial Release
