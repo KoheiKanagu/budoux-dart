@@ -2,11 +2,13 @@
 
 [![pub package](https://img.shields.io/pub/v/budoux_dart.svg?label=budoux_dart&color=blue)](https://pub.dartlang.org/packages/budoux_dart)
 
+[[English](README.md)]
+
 This is the Dart implementation of [BudouX](https://github.com/google/budoux).
 
-This is referencing the [Java implementation](https://github.com/google/budoux/blob/v0.6.1/java/src/main/java/com/google/budoux/Parser.java) of [Release v0.6.1 · google/budoux](https://github.com/google/budoux/releases/tag/v0.6.1).
+[Release v0\.6\.1 · google/budoux](https://github.com/google/budoux/releases/tag/v0.6.1)の[Java の実装](https://github.com/google/budoux/blob/v0.6.1/java/src/main/java/com/google/budoux/Parser.java)を参考にしています。
 
-## Flutter Example
+## Flutter のサンプル
 
 ```yaml
 # pubspec.yaml
