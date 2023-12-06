@@ -3,7 +3,7 @@
 ## 1.1.0
 
 - Updated minimum SDK version to 3.2.0
-- Added support for budoux v0.6.1, but no impact on budoux-dart
+- Added support for budoux v0.6.1, with no breaking changes for budoux-dart
 
 ## 1.0.2
 
