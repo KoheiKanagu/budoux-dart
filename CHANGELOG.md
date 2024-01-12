@@ -1,6 +1,6 @@
 # CHANGELOG
 
-## UNRELEASED
+## 1.2.0
 
 - Added support for Simplified Chinese
 - Added support for Traditional Chinese
