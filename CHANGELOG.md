@@ -2,9 +2,9 @@
 
 ## UNRELEASED
 
-- Added support Simplified Chinese
-- Added support Traditional Chinese
-- Added support Thai
+- Added support for Simplified Chinese
+- Added support for Traditional Chinese
+- Added support for Thai
 - Added support for budoux v0.6.2
 - Improved Ja model <https://github.com/google/budoux/pull/410>
 
