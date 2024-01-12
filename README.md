@@ -4,7 +4,7 @@
 
 This is the Dart implementation of [BudouX](https://github.com/google/budoux).
 
-This is referencing the [Java implementation](https://github.com/google/budoux/blob/v0.6.1/java/src/main/java/com/google/budoux/Parser.java) of [Release v0.6.1 · google/budoux](https://github.com/google/budoux/releases/tag/v0.6.1).
+This is referencing the [Java implementation](https://github.com/google/budoux/blob/v0.6.2/java/src/main/java/com/google/budoux/Parser.java) of [Release v0.6.2 · google/budoux](https://github.com/google/budoux/releases/tag/v0.6.2).
 
 ## Flutter Example
 
