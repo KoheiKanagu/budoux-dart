@@ -1,5 +1,10 @@
 # CHANGELOG
 
+## UNRELEASED
+
+- Added support for budoux v0.6.2.
+- Improved Ja model <https://github.com/google/budoux/pull/410>
+
 ## 1.1.0
 
 - Updated minimum SDK version to 3.2.0
