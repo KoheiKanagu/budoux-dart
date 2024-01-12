@@ -14,12 +14,18 @@ flutter:
   assets:
     - packages/budoux_dart/models/ja.json
     # or ja_knbc.json
+    # or zh-hans.json
+    # or zh-hant.json
+    # or th.json
 ```
 
 ```dart
   final budouX = BudouX(
     await rootBundle.loadString('packages/budoux_dart/models/ja.json'),
     // or ja_knbc.json
+    // or zh-hans.json
+    // or zh-hant.json
+    // or th.json
   );
 ```
 
