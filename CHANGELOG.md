@@ -1,5 +1,9 @@
 # CHANGELOG
 
+## 1.3.0
+
+- Improved Ja model <https://github.com/google/budoux/pull/454>
+
 ## 1.2.0
 
 - Added support for Simplified Chinese
